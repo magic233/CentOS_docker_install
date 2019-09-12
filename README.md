@@ -1,1 +1,1 @@
-# CentOS_docker_install
+## 只是一个一键安装Docker的脚本，仅供自用
